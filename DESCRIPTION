@@ -2,10 +2,9 @@ Package: mls
 Title: Multiline Strings
 Version: 0.0.1
 Authors@R:
-    person(given = "Rich",
-           family = "FitzJohn",
-           role = c("aut", "cre"),
-           email = "rich.fitzjohn@gmail.com")
+    c(person("Rich", "FitzJohn", role = c("aut", "cre"),
+             email = "rich.fitzjohn@gmail.com"),
+      person("Rob", "Ashton", role = "aut"))
 Description: Create multiline strings for errors, warnings and messages.
 License: MIT + file LICENSE
 Encoding: UTF-8
