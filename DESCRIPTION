@@ -10,4 +10,6 @@ Description: Create multiline strings for errors, warnings and messages.
 License: MIT + file LICENSE
 Encoding: UTF-8
 Suggests:
-    testthat
+    testthat,
+    withr
+RoxygenNote: 6.1.1
